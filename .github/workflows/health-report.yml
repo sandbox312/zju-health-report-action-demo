@@ -19,6 +19,9 @@ jobs:
           - username: ZJU_USERNAME #fanxiaoxiao
             password: ZJU_PASSWORD
             dingtalk_token: DINGTALK_TOKEN
+          - username: ZJU_USERNAME3 #jiangjiazhi
+            password: ZJU_PASSWORD3
+            dingtalk_token: DINGTALK_TOKEN3
     steps:
       - name: 打卡
         uses: zju-health-report/action@release
