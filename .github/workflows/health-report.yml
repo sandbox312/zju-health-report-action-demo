@@ -19,9 +19,9 @@ jobs:
           #- username: ZJU_USERNAME #fanxiaoxiao
             #password: ZJU_PASSWORD
             #dingtalk_token: DINGTALK_TOKEN
-          #- username: ZJU_USERNAME3 #jiangjiazhi
-            #password: ZJU_PASSWORD3
-            #dingtalk_token: DINGTALK_TOKEN3
+          - username: ZJU_USERNAME3 #jiangjiazhi
+            password: ZJU_PASSWORD3
+            dingtalk_token: DINGTALK_TOKEN3
           - username: ZJU_USERNAME4 #pengshiyi
             password: ZJU_PASSWORD4
             dingtalk_token: DINGTALK_TOKEN4
