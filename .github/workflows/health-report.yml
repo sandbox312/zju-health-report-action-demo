@@ -40,6 +40,10 @@ jobs:
           - username: ZJU_USERNAME9 #liyifei
             password: ZJU_PASSWORD9
             dingtalk_token: DINGTALK_TOKEN9
+          - username: ZJU_USERNAME10 #lijiayi
+            password: ZJU_PASSWORD10
+            dingtalk_token: DINGTALK_TOKEN10
+            
     steps:
       - name: 打卡
         uses: zju-health-report/action@release
